@@ -1,0 +1,124 @@
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    font-size:larger;
+    padding: 20px;
+    
+    
+}
+
+#home:hover, #home:active {
+    background-color: red;
+    text-decoration: underline;
+
+}
+#skills:hover, #skills:active {
+    background-color: red;
+    text-decoration: underline;
+
+}
+#hobbies:hover, #hobbies:active {
+    background-color: red;
+    text-decoration: underline;
+
+}
+#contact:hover, #contact:active {
+    background-color: red;
+    text-decoration: underline;
+
+}
+#home{
+    background-color: lightcoral;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#skills{
+    background-color: lightcoral;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#hobbies{
+    background-color: lightcoral;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#contact{
+    background-color: lightcoral;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.header{
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+
+}
+
+body{
+    background-color: lavenderblush
+}
+#img-1{
+    float:left
+}
+#quote{
+padding: 100px;
+padding-left: 15cm;
+text-align: center;
+width: 40%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+
+#skillsImg{
+    text-align: center;
+    padding: 50px;
+}
+    
+#skillsPara{
+    text-align: center;
+}
+#hobbiesPara{
+    line-height: 2;
+    text-indent: 1cm;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: monospace;
+    
+
+}
+#Form{
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#emailCon{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heading{
+    padding: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+span{
+    font-family: fantasy;
+}
